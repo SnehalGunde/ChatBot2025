@@ -1,0 +1,344 @@
+[
+    {
+        "timestamp": "2025-07-30T19:24:47.870830",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-30T19:25:23.365364",
+        "user_input": "I\u2019m having a bad day.",
+        "predicted_intent": "bad_day",
+        "bot_response": "That sounds really tough. I'm here for you. Would you like to try a calming breathing exercise or talk more about it?"
+    },
+    {
+        "timestamp": "2025-07-30T19:25:42.023802",
+        "user_input": "My back is sore today.",
+        "predicted_intent": "pain_check",
+        "bot_response": "I'm sorry to hear you're in pain. On a scale of 1 to 10, how would you rate your pain right now?"
+    },
+    {
+        "timestamp": "2025-07-30T19:25:50.398798",
+        "user_input": "7",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:26:28.318140",
+        "user_input": "pain level is 7",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:26:34.734679",
+        "user_input": "pain level is 8",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:27:12.376696",
+        "user_input": "Can you suggest a stretching routine?",
+        "predicted_intent": "exercise_request",
+        "bot_response": "I recommend starting with gentle full-body stretches. Would you like a video or step-by-step instructions?"
+    },
+    {
+        "timestamp": "2025-07-30T19:27:21.485640",
+        "user_input": "yes",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    },
+    {
+        "timestamp": "2025-07-30T19:31:50.813836",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-30T19:32:25.576353",
+        "user_input": "I\u2019m having a bad day.",
+        "predicted_intent": "bad_day",
+        "bot_response": "That sounds really tough. I'm here for you. Would you like to try a calming breathing exercise or talk more about it?"
+    },
+    {
+        "timestamp": "2025-07-30T19:32:44.083060",
+        "user_input": "I feel pain in my feet",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:33:16.549319",
+        "user_input": "My back is sore today.",
+        "predicted_intent": "pain_check",
+        "bot_response": "I'm sorry to hear you're in pain. On a scale of 1 to 10, how would you rate your pain right now?"
+    },
+    {
+        "timestamp": "2025-07-30T19:34:10.795756",
+        "user_input": "I feel like my pain is a 9",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:34:24.637303",
+        "user_input": "my pain is at a 4",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:34:36.701898",
+        "user_input": "my pain is a 5 today",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:34:47.928025",
+        "user_input": "5",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T19:34:57.201940",
+        "user_input": "bad",
+        "predicted_intent": "bad_day",
+        "bot_response": "That sounds really tough. I'm here for you. Would you like to try a calming breathing exercise or talk more about it?"
+    },
+    {
+        "timestamp": "2025-07-30T19:35:04.872632",
+        "user_input": "yes",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    },
+    {
+        "timestamp": "2025-07-30T19:35:13.320024",
+        "user_input": "thanks",
+        "predicted_intent": "decline_exercise",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:03:00.952841",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-30T23:03:53.555368",
+        "user_input": "I feel anxious about my pain.",
+        "predicted_intent": "emotional_support",
+        "bot_response": "You\u2019re not alone in this. I\u2019m always here to listen. Would talking about what you're feeling help a bit right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:04:39.629355",
+        "user_input": "My back is sore today",
+        "predicted_intent": "pain_check",
+        "bot_response": "I'm sorry to hear you're in pain. On a scale of 1 to 10, how would you rate your pain right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:05:23.617815",
+        "user_input": "pain level is 8",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:05:50.621733",
+        "user_input": "pain is around 4 today",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:06:11.800696",
+        "user_input": "\"pain is around 4 today\"",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:06:19.459012",
+        "user_input": "\"8\"",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:06:36.603646",
+        "user_input": "jk",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:09:00.735361",
+        "user_input": "\"It's hard to stay positive.",
+        "predicted_intent": "emotional_support",
+        "bot_response": "You\u2019re not alone in this. I\u2019m always here to listen. Would talking about what you're feeling help a bit right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:09:24.770281",
+        "user_input": "Suggest a relaxation technique",
+        "predicted_intent": "relaxation_request",
+        "bot_response": "Of course. Let\u2019s begin a simple relaxation technique. Close your eyes, take a deep breath, and let\u2019s breathe together."
+    },
+    {
+        "timestamp": "2025-07-30T23:09:51.019065",
+        "user_input": "yes, that would help\"",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    },
+    {
+        "timestamp": "2025-07-30T23:09:58.784564",
+        "user_input": "sure",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:10:04.286922",
+        "user_input": "thanks",
+        "predicted_intent": "decline_exercise",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:10:13.304200",
+        "user_input": "thank you",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:10:21.835686",
+        "user_input": "heelo",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:10:27.455834",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-30T23:10:49.002202",
+        "user_input": "I'm emotionally drained.",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:11:08.552292",
+        "user_input": "I  feel so alone in this",
+        "predicted_intent": "emotional_support",
+        "bot_response": "You\u2019re not alone in this. I\u2019m always here to listen. Would talking about what you're feeling help a bit right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:11:17.851643",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-30T23:11:21.902363",
+        "user_input": " feel so alone in this",
+        "predicted_intent": "emotional_support",
+        "bot_response": "You\u2019re not alone in this. I\u2019m always here to listen. Would talking about what you're feeling help a bit right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:11:31.552679",
+        "user_input": "yes",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    },
+    {
+        "timestamp": "2025-07-30T23:12:09.002078",
+        "user_input": "thanks. \"My back hurts a lot today.",
+        "predicted_intent": "pain_check",
+        "bot_response": "I'm sorry to hear you're in pain. On a scale of 1 to 10, how would you rate your pain right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:13:05.768905",
+        "user_input": "1",
+        "predicted_intent": "farewell",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:13:17.649826",
+        "user_input": "\"My back hurts a lot today.",
+        "predicted_intent": "pain_check",
+        "bot_response": "I'm sorry to hear you're in pain. On a scale of 1 to 10, how would you rate your pain right now?"
+    },
+    {
+        "timestamp": "2025-07-30T23:14:27.835552",
+        "user_input": "I feel pain in my hips.",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:14:33.872860",
+        "user_input": "I feel pain in my hips",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:15:33.050974",
+        "user_input": "pain in back",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:16:52.751172",
+        "user_input": "pain level is 7",
+        "predicted_intent": "rating_response",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-30T23:19:34.100869",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-30T23:19:44.817065",
+        "user_input": "i am having back pain",
+        "predicted_intent": "rating_response",
+        "bot_response": "I recommend starting with gentle full-body stretches. Would you like a video or step-by-step instructions?"
+    },
+    {
+        "timestamp": "2025-07-30T23:20:00.020423",
+        "user_input": "yes",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    },
+    {
+        "timestamp": "2025-07-31T12:10:02.868928",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today? By the way, has your back pain improved since we last talked?"
+    },
+    {
+        "timestamp": "2025-07-31T12:10:16.361502",
+        "user_input": "yes",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    },
+    {
+        "timestamp": "2025-07-31T12:10:25.261694",
+        "user_input": "thanks",
+        "predicted_intent": "decline_exercise",
+        "bot_response": "I\u2019m here for you, even if I didn\u2019t quite catch that. Could you rephrase or let me know how you're feeling?"
+    },
+    {
+        "timestamp": "2025-07-31T12:21:41.003715",
+        "user_input": "hello",
+        "predicted_intent": "greeting",
+        "bot_response": "Hi there! It\u2019s good to hear from you. How are you feeling physically and emotionally today?"
+    },
+    {
+        "timestamp": "2025-07-31T12:21:57.189906",
+        "user_input": "My back hurts a lot today.",
+        "predicted_intent": "pain_check",
+        "bot_response": "I'm sorry to hear you're in pain. On a scale of 1 to 10, how would you rate your pain right now?"
+    },
+    {
+        "timestamp": "2025-07-31T12:22:01.785862",
+        "user_input": "5",
+        "predicted_intent": "rating_response",
+        "bot_response": "I recommend starting with gentle full-body stretches. Would you like a video or step-by-step instructions?"
+    },
+    {
+        "timestamp": "2025-07-31T12:22:06.903141",
+        "user_input": "yes",
+        "predicted_intent": "confirm_exercise",
+        "bot_response": "Great! Let\u2019s begin. Start by sitting comfortably. Take a deep breath in through your nose... and exhale slowly through your mouth... Do this for a few minutes."
+    }
+]
